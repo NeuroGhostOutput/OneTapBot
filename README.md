@@ -3,7 +3,9 @@
 <h1>🦅 Advanced Sniper Bot Smart Contract 🦅</h1>
 
 Welcome to the Advanced Sniper Bot Smart Contract—an intelligent and cutting-edge trading bot designed for precision and profitability in the fast-paced world of decentralized finance (DeFi). This contract leverages Chainlink's robust data feeds and AI-powered predictions to make swift, data-driven decisions in real-time, allowing you to capitalize on market inefficiencies across multiple DEXes.
-🌟 Key Features
+
+
+<h1>🌟 Key Features</h1>
 
     AI-Enhanced Decision Making: This bot integrates with AI-based oracle data to evaluate market conditions, optimize trade execution, and manage risks dynamically.
 
