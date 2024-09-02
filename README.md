@@ -52,7 +52,7 @@ Step-by-Step Guide
 
     bash
 
-git clone https://github.com/NeuroGhostOutput/sniper-bot.git
+git clone https://github.com/NeuroGhostOutput/OneTapBot.git
 cd advanced-sniper-bot
 
 Install Dependencies:
